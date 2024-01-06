@@ -1,7 +1,7 @@
 layout: post
+title: "NAMING-THING"
 date: 2024-01-01 23:01:11 +0100
-title: "Naming things"
-permalink: /2024-01-06-naming-things
+categories: CATEGORY-1 CATEGORY-2
 
 # [draft] Naming things
 
